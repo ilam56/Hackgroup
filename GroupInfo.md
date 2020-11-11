@@ -1,7 +1,7 @@
 ## Group name:
-The name we chose is: "InputNameHere"
+The name we chose is: "InputNameHere"   
 
 ## Group Members:
-Ian Anderson
-William Givens
-Omar Diab
+Ian Anderson  
+William Givens  
+Omar Diab  
